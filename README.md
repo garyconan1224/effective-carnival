@@ -4,3 +4,6 @@
 
 ###### 这是 `<h6>` header, 最小的标题
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
